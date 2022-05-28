@@ -41,8 +41,7 @@ text{
     margin-top: 300px;
 }
 
-@media screen and (max-width: 600px) {
-    main #products{
-        grid-template-columns: repeat(2, 1fr);
-    }
+a{
+    color: rgba(0, 0, 255, 0.708);
+ text-decoration: none !important;
 }
